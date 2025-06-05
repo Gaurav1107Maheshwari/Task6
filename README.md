@@ -1,2 +1,2 @@
 # Task6
-Algorithms 
+KNN Classification-K Nearest Neighbors Classification
